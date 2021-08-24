@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/ConsoleApp1/bin
+/.vs
+/ConsoleApp1/.vs/tesla-panel-bus/v16
+/ConsoleApp1/Properties
+/ConsoleApp1/obj
+/ConsoleApp1/tesla-panel-bus.csproj.user
