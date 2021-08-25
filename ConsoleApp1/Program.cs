@@ -82,6 +82,5 @@ namespace TeslaPanelBus
             Trace.WriteLine(String.Format(value, args));
             Console.WriteLine(value, args);
         }
-        //static void ConsoleLogWriteLineTimestamp()
     }
 }
